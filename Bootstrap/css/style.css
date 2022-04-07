@@ -1,0 +1,27 @@
+.navbar {
+    border-bottom: #85C1E9 solid 5px;
+}
+
+.navbar-brand {
+    color: #85C1E9 !important;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.nav-link {
+    text-transform: uppercase;
+}
+
+.nav-link:hover {
+    color: #85C1E9 !important;
+}
+
+#header {
+    background: url('/Bootstrap/image/la.jpg') no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+    margin-top: 20px;
+}
