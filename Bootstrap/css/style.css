@@ -21,7 +21,7 @@ body {
 }
 
 #header {
-    background: url('/Bootstrap/image/la.jpg') no-repeat;
+    background: url('/image/la.jpg') no-repeat;
     background-size: cover;
     height: 125vh;
 }
@@ -37,4 +37,13 @@ h1 {
 
 .btn-outline-secondary:hover {
     background-color: #85C1E9;
+}
+
+#feature i {
+    color: #85C1E9;
+}
+
+#feature h3:hover {
+    color: #85C1E9;
+    cursor: pointer;
 }
